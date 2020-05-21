@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class BinAdd {
+public class BinAd {
    public static void main(String[] args) {
 	   long b1, b2;
 	   int i = 0, rem = 0;
